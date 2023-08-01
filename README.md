@@ -19,3 +19,10 @@ Figure1: To add hardhat deploy we add the above command
 yarn add --dev hardhat-deploy
 
 ````
+
+![h26](https://github.com/C191068/Ali_Khatami_Hardhat2/assets/89090776/8f0cfe15-effe-4fab-beaa-68cf066a6d46)
+Figure2: Instead of writing our deploy scripts to script folder shown with red arrow <br>
+we create a new folder for that and that is ```akrkdeploy``` <br>
+
+
+
