@@ -46,6 +46,8 @@ in orders <br>
 
 Hardhat deploy is different from normal deploy here we don't need to have main functions <br>
 nor we have to call main function <br>
+It gonna run a specific function that we define inside the script <br>
+
 
 
 
