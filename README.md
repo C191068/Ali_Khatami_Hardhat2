@@ -40,4 +40,8 @@ npm install --save-dev  @nomiclabs/hardhat-ethers@npm:hardhat-deploy-ethers ethe
 then we can see that at package.json file that hardhat ethers package is overriden by hardhat deploy ethers package <br>
 
 
+![h28](https://github.com/C191068/Ali_Khatami_Hardhat2/assets/89090776/96f3ec65-c328-4377-a4df-8bfeae4e0c9c)
+Figure4: inside the akrkdeploy folder it is better to give scripts number so that we can run them <br>
+in orders <br>
+
 
