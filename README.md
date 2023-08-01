@@ -24,5 +24,7 @@ yarn add --dev hardhat-deploy
 Figure2: Instead of writing our deploy scripts to script folder shown with red arrow <br>
 we create a new folder for that and that is ```akrkdeploy``` <br>
 
+This ```akrkdeploy``` folder is where hardhat deploy module will be to deploy our solidity code <br>
+
 
 
