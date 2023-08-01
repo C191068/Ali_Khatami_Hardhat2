@@ -8,3 +8,6 @@ having everything inside deploy script for deploying can make test and deploy sc
 
 Here we gonna talk about hardhat deploy package <br>
 
+It is the link of the package https://github.com/wighawag/hardhat-deploy <br>
+
+It is Replicable Deployments And Easy Testing 
