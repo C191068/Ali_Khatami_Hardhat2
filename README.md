@@ -6,3 +6,5 @@ If we use only javascript to deploy our smart contract it is not saving our depl
 
 having everything inside deploy script for deploying can make test and deploy script not working together<br>
 
+Here we gonna talk about hardhat deploy package <br>
+
