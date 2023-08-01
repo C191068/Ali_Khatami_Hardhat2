@@ -26,5 +26,7 @@ we create a new folder for that and that is ```akrkdeploy``` <br>
 
 This ```akrkdeploy``` folder is where hardhat deploy module will be to deploy our solidity code <br>
 
+To write our scripts we have to add one more thing and that hardhat-deploy-ethers to our package here <br>
+
 
 
