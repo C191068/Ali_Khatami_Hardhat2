@@ -44,4 +44,8 @@ then we can see that at package.json file that hardhat ethers package is overrid
 Figure4: inside the akrkdeploy folder it is better to give scripts number so that we can run them <br>
 in orders <br>
 
+Hardhat deploy is different from normal deploy here we don't need to have main functions <br>
+nor we have to call main function <br>
+
+
 
