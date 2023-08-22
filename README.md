@@ -117,3 +117,14 @@ It gonna run a specific function that we define inside the script <br>
 
 
 
+![d10](https://github.com/C191068/Ali_Khatami_Hardhat2/assets/89090776/115a7a85-5723-4bdb-998f-7aa9dbd3ce6a)
+
+
+We gonna export this function as a default function <br>
+
+
+
+
+
+
+
