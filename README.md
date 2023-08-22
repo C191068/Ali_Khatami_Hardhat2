@@ -21,7 +21,7 @@ yarn add --dev hardhat-deploy
 ````
 Then from this link https://github.com/wighawag/hardhat-deploy
 
-we paste the code below <br> :
+we paste the code below : <br>
 
 
 
