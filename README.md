@@ -42,6 +42,25 @@ yarn add --dev "@nomicfoundation/hardhat-network-helpers@^1.0.0" "@nomicfoundati
 
 ```
 
+<br>
+
+Then I will give the command below: <br>
+
+```
+yarn hardhat
+
+```
+
+<br>
+
+![d8](https://github.com/C191068/Ali_Khatami_Hardhat2/assets/89090776/58aec6ec-dd59-460c-9219-e44afca648ab)
+
+We can see a bunch of new task in here with one of them being deployed <br>
+
+
+
+
+
 
 
 
