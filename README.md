@@ -140,6 +140,12 @@ Similiar to back in hardhat simple storage <br>
 
 
 
+![d13](https://github.com/C191068/Ali_Khatami_Hardhat2/assets/89090776/5e2b2c93-b328-47f7-bb86-5ee34bdebb29)
+
+
+We using the above deploymet object to get two function : deploy and log function <br>
+
+
 
 
 
