@@ -92,6 +92,18 @@ yarn add -D @nomiclabs/hardhat-ethers@npm:hardhat-deploy-ethers@*
 then we can see that at package.json file that hardhat ethers package is overriden by hardhat deploy ethers package <br>
 
 
+Ok now we have setup we can run our deploy script <br>
+
+the way that hardhat deploy works is the scripts get added to our akrkdeploy folder <br>
+
+will get run when we run yarn hardhat deploy <br>
+
+So a good way is to number them so that they run in order <br>
+you want them to run <br>
+
+
+
+
 ![h28](https://github.com/C191068/Ali_Khatami_Hardhat2/assets/89090776/96f3ec65-c328-4377-a4df-8bfeae4e0c9c)
 Figure4: inside the akrkdeploy folder it is better to give scripts number so that we can run them <br>
 in orders <br>
