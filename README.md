@@ -32,6 +32,22 @@ require('hardhat-deploy');
 
 <br><br>
 
+![d7](https://github.com/C191068/Ali_Khatami_Hardhat2/assets/89090776/9c4c5dbc-5949-44ce-9273-1ddb908cb7ba)
+
+We have to run the commmand given below <br>
+
+```
+
+yarn add --dev "@nomicfoundation/hardhat-network-helpers@^1.0.0" "@nomicfoundation/hardhat-verify@^1.0.0" "@types/mocha@>=9.1.0" "@typechain/ethers-v6@^0.4.0" "@typechain/hardhat@^8.0.0" "hardhat-gas-reporter@^1.0.8" "solidity-coverage@^0.8.1" "ts-node@>=8.0.0" "typechain@^8.2.0" "typescript@>=4.5.0"
+
+```
+
+
+
+
+
+
+
 
 ![h26](https://github.com/C191068/Ali_Khatami_Hardhat2/assets/89090776/8f0cfe15-effe-4fab-beaa-68cf066a6d46)
 Figure2: Instead of writing our deploy scripts to script folder shown with red arrow <br>
