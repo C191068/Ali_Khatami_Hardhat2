@@ -123,6 +123,11 @@ It gonna run a specific function that we define inside the script <br>
 We gonna export this function as a default function for our hardhat deploy to look for  <br>
 
 
+![d11](https://github.com/C191068/Ali_Khatami_Hardhat2/assets/89090776/fb2ec79a-e99f-40f5-8c88-ae6da3f6b03e)
+
+For that we write the above line of code <br>
+
+
 
 
 
