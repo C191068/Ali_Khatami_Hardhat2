@@ -134,6 +134,11 @@ here hre is hardhat runtime environment <br>
 
 Whenever we run a deploy script , hardhat deploy automatically calls this function <br>
 
+and just passes hardhat object into it <br>
+
+
+
+
 
 
 
