@@ -136,6 +136,8 @@ Whenever we run a deploy script , hardhat deploy automatically calls this functi
 
 and just passes hardhat object into it <br>
 
+Similiar to back in hardhat simple storage <br>
+
 
 
 
