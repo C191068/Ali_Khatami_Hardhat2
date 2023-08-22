@@ -146,6 +146,12 @@ Similiar to back in hardhat simple storage <br>
 We using the above deploymet object to get two function : deploy and log function <br>
 
 
+![d14](https://github.com/C191068/Ali_Khatami_Hardhat2/assets/89090776/7ba8d75d-96a1-4b3a-b70b-a0417eea4f6f)
+
+
+We are grabing this deployer account from this weired getnameaccount <br>
+
+
 
 
 
