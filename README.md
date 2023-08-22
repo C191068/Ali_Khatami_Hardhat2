@@ -21,16 +21,16 @@ yarn add --dev hardhat-deploy
 ````
 Then from this link https://github.com/wighawag/hardhat-deploy
 
-we paste the code below :
+we paste the code below <br> :
+
+
 
 ```
 require('hardhat-deploy');
 
 ```
 
-
-
-
+<br>
 
 
 ![h26](https://github.com/C191068/Ali_Khatami_Hardhat2/assets/89090776/8f0cfe15-effe-4fab-beaa-68cf066a6d46)
