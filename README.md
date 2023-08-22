@@ -57,6 +57,10 @@ yarn hardhat
 
 We can see a bunch of new task in here with one of them being deployed <br>
 
+This deploy task gonna be the main task we use to deploy our contract <br>
+
+
+
 
 
 
