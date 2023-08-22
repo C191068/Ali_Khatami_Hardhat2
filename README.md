@@ -85,8 +85,7 @@ To write our scripts we have to add one more thing and that hardhat-deploy-ether
 Figure3: here when we give the command 
 
 ```
-npm install --save-dev  @nomiclabs/hardhat-ethers@npm:hardhat-deploy-ethers ethers
-
+yarn add -D @nomiclabs/hardhat-ethers@npm:hardhat-deploy-ethers@*
 ```
 
 then we can see that at package.json file that hardhat ethers package is overriden by hardhat deploy ethers package <br>
