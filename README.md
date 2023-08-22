@@ -128,6 +128,10 @@ We gonna export this function as a default function for our hardhat deploy to lo
 For that we write the above line of code <br>
 
 
+![d12](https://github.com/C191068/Ali_Khatami_Hardhat2/assets/89090776/3189f454-c276-45ec-b9c5-4b6eb548c74f)
+
+here hre is hardhat runtime environment <br>
+
 
 
 
