@@ -80,7 +80,8 @@ This ```akrkdeploy``` folder is where hardhat deploy module will be to deploy ou
 
 To write our scripts we have to add one more thing and that hardhat-deploy-ethers to our package here <br>
 
-![h27](https://github.com/C191068/Ali_Khatami_Hardhat2/assets/89090776/b7370021-0d7e-4758-8e95-e9bdfebc7545)
+![d9](https://github.com/C191068/Ali_Khatami_Hardhat2/assets/89090776/46f70c39-ed17-4f9d-b48f-7a4adf60d7db)
+
 
 Figure3: here when we give the command 
 
