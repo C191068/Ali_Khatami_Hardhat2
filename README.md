@@ -132,6 +132,10 @@ For that we write the above line of code <br>
 
 here hre is hardhat runtime environment <br>
 
+Whenever we run a deploy script , hardhat deploy automatically calls this function <br>
+
+
+
 
 
 
