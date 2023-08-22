@@ -101,6 +101,8 @@ will get run when we run yarn hardhat deploy <br>
 So a good way is to number them so that they run in order <br>
 you want them to run <br>
 
+Since we have one contract to deploy <br>
+
 
 
 
